@@ -9,7 +9,7 @@
 A real-time, non-invasive system for detecting plant stress — built on an Arduino Uno, a piezo disc, and a few rupees of sensors.
 
 **🏆 Top 30 of 3,300+ entries — Young Innovator Programme (YIP) 2025–26**
-**📍 Round 2 Finalist, IIT Kharagpur, Jabuary 2026**
+**📍 Round 2 Finalist, IIT Kharagpur, January 2026**
 
 </div>
 
