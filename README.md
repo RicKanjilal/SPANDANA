@@ -9,7 +9,7 @@
 A real-time, non-invasive system for detecting plant stress — built on an Arduino Uno, a piezo disc, and a few rupees of sensors.
 
 **🏆 Top 30 of 3,300+ entries — Young Innovator Programme (YIP) 2025–26**
-**📍 Round 2 Finalist, IIT Kharagpur, March 2026**
+**📍 Round 2 Finalist, IIT Kharagpur, Jabuary 2026**
 
 </div>
 
@@ -218,7 +218,7 @@ Concept, hardware, firmware, signal processing pipeline, experiments.
 
 With thanks to **Riddhi Dhar** for the project visualisation and presentation design.
 
-Presented at the **Young Innovator Programme (YIP) Round 2, IIT Kharagpur — March 2026.**
+Presented at the **Young Innovator Programme (YIP) Round 2, IIT Kharagpur — January 2026.**
 
 📄 The full presentation deck is in [`docs/SPANDANA_YIP_Round2_Deck.pdf`](docs/SPANDANA_YIP_Round2_Deck.pdf).
 
